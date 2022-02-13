@@ -24,7 +24,7 @@ public class Utility {
 		return data;	    
 	}
 	
-	public static void takeScreenshotHere(WebDriver driver,int testID) throws IOException 
+	/*public static void takeScreenshotHere(WebDriver driver,int testID) throws IOException 
 	{
 		SimpleDateFormat sdf = new SimpleDateFormat("ddMMyyyy_HHmmss");
 		Date d = new Date();
@@ -34,7 +34,7 @@ public class Utility {
 		FileHandler.copy(shot, dest);
 		
 		
-	}
+	}*/
 	
 	
 	
